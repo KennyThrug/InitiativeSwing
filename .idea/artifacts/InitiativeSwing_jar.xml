@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InitiativeSwing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InitiativeSwing_jar</output-path>
+    <root id="archive" name="InitiativeSwing.jar">
+      <element id="module-output" name="InitiativeSwing" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/cedarsoft/commons/swing/swing/8.9.2/swing-8.9.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
